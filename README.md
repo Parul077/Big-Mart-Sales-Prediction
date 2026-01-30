@@ -4,8 +4,6 @@
 The objective of this project is to predict **item outlet sales** for Big Mart stores based on product-level attributes and outlet-level characteristics.  
 Beyond prediction, the project emphasizes **model selection, bias–variance trade-offs, and generalization performance** on noisy real-world retail data.
 
-This project was intentionally rebuilt from a basic ML exercise into an **engineer-level, decision-driven machine learning project**.
-
 ---
 
 ## 🎯 Problem Statement
